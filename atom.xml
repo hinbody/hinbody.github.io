@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Harley Inbody]]></title>
   <link href="http://harleyinbody.net/atom.xml" rel="self"/>
   <link href="http://harleyinbody.net/"/>
-  <updated>2014-01-01T22:45:13-05:00</updated>
+  <updated>2014-01-02T14:21:28-05:00</updated>
   <id>http://harleyinbody.net/</id>
   <author>
     <name><![CDATA[Harley Inbody]]></name>
@@ -12,5 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://harleyinbody.net/blog/2014/01/02/welcome/"/>
+    <updated>2014-01-02T13:49:28-05:00</updated>
+    <id>http://harleyinbody.net/blog/2014/01/02/welcome</id>
+    <content type="html"><![CDATA[<p>Welcome to my development blog. I am Harley and I will be your host. I am a
+junior developer looking to make my way into the field full-time. I have an
+A.A.S. in Computer Information Technology, and started to work on a B.S. in CS.
+I am not currently attending school officially; but that doesn&rsquo;t mean that I&rsquo;m
+not still studying and learning. I have worked with C++ and PHP in the past, but
+am currently working with Ruby. I have one Rails project that I&rsquo;ve started
+called <a href="http://bacon-splitter.herokuapp.com/" title="Bacon Splitter">Bacon Splitter</a>.
+Feel free to check it out and provide feedback if you have any. I&rsquo;m also working
+my way through the book &ldquo;Rails 4 in Action&rdquo; from
+<a href="http://www.manning.com/bigg2/">Manning</a>, which has been a tremendous resource
+for me. <!-- more --></p>
+
+<p>I have wanted to start a dev blog for some time now, but the main impetus for me
+starting this one now, comes from a few places. I&rsquo;ve been inspired by
+<a href="https://twitter.com/Joshuakemp01">Joshua Kemp</a> and his story of going from no
+degree to a junior developer in less than a year.
+<a href="https://twitter.com/avdi">Avdi Grimm</a> has mentioned that he likes to read
+developer blogs, so I hoped to give him one more source to read. Also,
+<a href="https://twitter.com/marksim">Mark Sim</a>, one of my first remote pairing partners,
+led me to Octopress as the framework to use. There are certainly other people
+who have both inspired me, and helped me learn; and I hope to give them the
+proper credit on this blog as we move forward.</p>
+
+<p>I can be found on <a href="https://github.com/hinbody">Github</a> and
+<a href="https://twitter.com/hinbody">Twitter</a>. Feel free to hit me up either place.</p>
+]]></content>
+  </entry>
   
 </feed>

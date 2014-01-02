@@ -1,8 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://harleyinbody.net/blog/2014/01/02/welcome/</loc>
+        <lastmod>2014-01-02T14:18:49-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://harleyinbody.net/blog/archives/</loc>
-        <lastmod>2014-01-01T21:14:56-05:00</lastmod>
+        <lastmod>2014-01-02T14:18:49-05:00</lastmod>
     </url>
     <url>
         <loc>http://harleyinbody.net/robots.txt</loc>
@@ -10,6 +14,6 @@
     </url>
     <url>
         <loc>http://harleyinbody.net/</loc>
-        <lastmod>2014-01-01T21:14:56-05:00</lastmod>
+        <lastmod>2014-01-02T14:18:49-05:00</lastmod>
     </url>
 </urlset>
