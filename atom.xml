@@ -4,7 +4,7 @@
   <title><![CDATA[Harley Inbody]]></title>
   <link href="http://harleyinbody.net/atom.xml" rel="self"/>
   <link href="http://harleyinbody.net/"/>
-  <updated>2014-01-03T14:44:01-05:00</updated>
+  <updated>2014-02-11T23:23:30-05:00</updated>
   <id>http://harleyinbody.net/</id>
   <author>
     <name><![CDATA[Harley Inbody]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rubygems Certificate Verify Failed]]></title>
+    <link href="http://harleyinbody.net/blog/2014/02/11/rubygems-certificate-verify-failed/"/>
+    <updated>2014-02-11T23:22:14-05:00</updated>
+    <id>http://harleyinbody.net/blog/2014/02/11/rubygems-certificate-verify-failed</id>
+    <content type="html"><![CDATA[<p>When trying to bundle install on one of my Rails apps, I got an error saying
+that &lsquo;certificate verify failed&rsquo;. I believe the rvm certificates were out of
+date. What I found to work was <code>rvm rubygems latest</code>. After that I did my
+<code>bin/bundle</code> and everything worked perfectly.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Welcome]]></title>
