@@ -3,7 +3,7 @@ layout: post
 title: "Rubygems certificate verify failed"
 date: 2014-02-11 23:22:14 -0500
 comments: true
-categories: 
+categories: [Rubygems, certificates]
 ---
 
 When trying to bundle install on one of my Rails apps, I got an error saying
