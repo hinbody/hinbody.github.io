@@ -9,6 +9,16 @@ footer: true
 These are some examples of my work. Please also visit [my github
 page](https://github.com/hinbody) for more.
 
+### Bacon Splitter ###
+[{% img images/bacon_splitter.png 300 500 %}](images/bacon_splitter.png)
+
+This is my current personal project. It is an app to keep track of money that is
+owed. I also plan to add features to track expenditures and income. It is
+written in Ruby on Rails. Feel free to visit 
+[Bacon Splitter](http://bacon-splitter.herokuapp.com/) and test it out. You can find
+the code on github at
+[hinbody/bacon_slitter](https://github.com/hinbody/bacon_splitter). 
+
 ### Playtime Jumpers ###
 [{% img images/playtime.png 300 500 %}](images/playtime.png)
 
